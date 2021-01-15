@@ -144,3 +144,11 @@ sudo pip3 install adafruit-circuitpython-servokit
     sudo make install
     sudo ldconfig
 ```
+
+## Execute the program
+* clone the file from the github
+* set the evironments and tools
+* AND YOU CAN ENJOY YOUR DOG!!
+
+* video https://youtu.be/rF4eFUUne08
+* reference https://blog.csdn.net/a568713197/article/details/85267764
